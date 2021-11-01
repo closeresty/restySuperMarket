@@ -1,0 +1,9 @@
+c:\users\rappo\documents\visual studio 2010\Projects\restySuperMarket\restySuperMarket\bin\Debug\restySuperMarket.exe
+c:\users\rappo\documents\visual studio 2010\Projects\restySuperMarket\restySuperMarket\bin\Debug\restySuperMarket.pdb
+c:\users\rappo\documents\visual studio 2010\Projects\restySuperMarket\restySuperMarket\bin\Debug\restySuperMarket.xml
+c:\users\rappo\documents\visual studio 2010\Projects\restySuperMarket\restySuperMarket\obj\x86\Debug\restySuperMarket.Form1.resources
+c:\users\rappo\documents\visual studio 2010\Projects\restySuperMarket\restySuperMarket\obj\x86\Debug\restySuperMarket.Resources.resources
+c:\users\rappo\documents\visual studio 2010\Projects\restySuperMarket\restySuperMarket\obj\x86\Debug\restySuperMarket.vbproj.GenerateResource.Cache
+c:\users\rappo\documents\visual studio 2010\Projects\restySuperMarket\restySuperMarket\obj\x86\Debug\restySuperMarket.exe
+c:\users\rappo\documents\visual studio 2010\Projects\restySuperMarket\restySuperMarket\obj\x86\Debug\restySuperMarket.xml
+c:\users\rappo\documents\visual studio 2010\Projects\restySuperMarket\restySuperMarket\obj\x86\Debug\restySuperMarket.pdb
